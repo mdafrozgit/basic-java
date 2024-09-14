@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Afroz
-- 👀 I’m interested in computer science
+- 👀 I’m interested in computer science and football
 - 🌱 I’m currently learning java(dsa)
 - 😄 Pronouns: he/him
 
