@@ -1,4 +1,4 @@
-Hiii, I'm Mohammed Afroz
+Hiii, I'm Mohammed Afroz.
 This is my first git Repo.
 
 <!---
