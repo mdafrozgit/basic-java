@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Mohammed Afroz
-- 👀 I’m interested in computer science and football
-- 🌱 I’m currently learning java(dsa)
-- 😄 Pronouns: he/him
+Hiii, I'm Mohammed Afroz
+This is my first git Repo.
 
 <!---
 mdafrozgit/mdafrozgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
